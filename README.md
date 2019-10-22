@@ -2,10 +2,10 @@
 
 # Hello #
 ###### smallest heading ######
-** Bold **
-* Italic *
-*** bold and italic ***
+**Bold**
+*Italic*
+***bold and italic***
 > quoted
-~ back tick ~
+~back tick~
 
 This is my first demo project
