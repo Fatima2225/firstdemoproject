@@ -8,6 +8,6 @@
 > quoted
 ~back tick~
 
-hello `gitstaus' add to our file.
+hello `gitstaus` add to our file.
 
 This is my first demo project
